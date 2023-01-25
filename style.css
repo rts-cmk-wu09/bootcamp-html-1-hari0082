@@ -5,16 +5,13 @@
 }
 
 body {
-    background-color: lightblue;
-    color: blue;
-
-    padding: 100px;
+    background-color: beige;
+    padding: 50px;
 }
 
-li a {
+li {
     list-style: none;
     text-decoration: none;
-
 }
 
 li a:hover {
